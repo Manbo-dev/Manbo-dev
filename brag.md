@@ -1,9 +1,38 @@
-# 🏆 Brag Document — Guilherme Dias Cardoso Silva
+<!--
+================================================================================
+BRAG DOCUMENT — GUILHERME DIAS CARDOSO SILVA
+================================================================================
+ARQUIVO PRIVADO — fonte da verdade para CV, entrevistas e performance reviews.
 
-> **O que é este documento?**
-> Este é seu registro contínuo de conquistas, impactos e crescimento profissional.
-> Atualize-o regularmente — idealmente toda semana ou ao final de cada entrega relevante.
-> Ele serve como base para CV, entrevistas, performance reviews e promoções.
+🤖 INSTRUÇÕES PARA AGENTE DE IA (atualização semanal)
+================================================================================
+Quando receber um relato semanal do Guilherme, siga estas regras:
+
+1. WEEKLY_LOG → Adicione uma nova entrada no topo da seção "Weekly Log" com:
+   - Data da semana (ex: "Semana de 14 Abr 2026")
+   - Bullet points do que foi feito, aprendido, entregue
+   - Tags: #trabalho #upvote #estudos #carreira #pessoal
+
+2. CONQUISTAS → Se algo no relato for uma conquista significativa (entrega,
+   reconhecimento, métrica nova, feature lançada), adicione também na seção
+   correspondente em "Experiências Profissionais" ou "Projetos Pessoais".
+
+3. HIGHLIGHTS → Se for um highlight de carreira (impacto técnico, liderança,
+   reconhecimento externo), adicione em "Conquistas & Highlights".
+
+4. README_SYNC → Após atualizar o brag.md, atualize também o README.md:
+   - Substitua o conteúdo entre <!-- RECENT_UPDATES_START --> e <!-- RECENT_UPDATES_END -->
+     com as 3 entradas mais recentes do Weekly Log, formatadas de forma limpa.
+
+5. REGRAS GERAIS:
+   - Nunca remova entradas existentes, apenas adicione
+   - Transforme linguagem informal do relato em linguagem profissional concisa
+   - Se houver métricas (números, %), sempre preserve-as
+   - Mantenha o LOG DE ATUALIZAÇÕES atualizado
+================================================================================
+-->
+
+# 🏆 Brag Document — Guilherme Dias Cardoso Silva
 
 📍 Dublin, Ireland · 📧 guilhermedicasil@gmail.com · 📞 +353 83 481 0598
 🔗 [linkedin.com/in/guilherme-dias-cardoso](https://linkedin.com/in/guilherme-dias-cardoso)
@@ -18,7 +47,7 @@
 4. [Projetos Pessoais & SaaS](#projetos-pessoais--saas)
 5. [Educação & Certificações](#educação--certificações)
 6. [Conquistas & Highlights](#conquistas--highlights)
-7. [Template para Novas Entradas](#template-para-novas-entradas)
+7. [Weekly Log](#weekly-log)
 8. [Log de Atualizações](#log-de-atualizações)
 
 ---
@@ -27,9 +56,9 @@
 
 Java Back-End Software Engineer com **4+ anos de experiência**, especializado em Spring Boot, microsserviços e plataformas de e-commerce de alta escala. Histórico comprovado em manutenção e evolução de sistemas críticos com alta volumetria de usuários. Mentalidade de produto: além de construir features, constrói e opera produtos próprios do zero (SaaS).
 
-**Nível alvo:** Mid-level / SDE II  
-**Foco atual:** Java Backend, Sistemas Distribuídos, Cloud (AWS/GCP)  
-**Status:** Open to Work — Full Stack Engineer / Java Backend roles  
+**Nível alvo:** Mid-level / SDE II
+**Foco atual:** Java Backend, Sistemas Distribuídos, Cloud (AWS/GCP)
+**Status:** Open to Work — Full Stack Engineer / Java Backend roles
 **Idiomas:** Português (Nativo) · Inglês (Proficiência profissional)
 
 ---
@@ -55,19 +84,20 @@ Java Back-End Software Engineer com **4+ anos de experiência**, especializado e
 ### 🏢 Carroll's Irish Gift Store — Head Cashier
 **📅 [Data início] – Presente | Dublin, Ireland**
 
+<!-- AGENT_TARGET: carroll -->
 **Responsabilidades:**
-- [ ] _Adicionar_
+- _Adicionar_
 
 **Conquistas:**
-- [ ] _Ex: "Reduzi tempo de fechamento de caixa em X%"_
-- [ ] _Ex: "Treinei X novos membros da equipe"_
+- _Adicionar_
 
 ---
 
 ### 🏢 Upvote — Founder
 **📅 Mar 2026 – Presente | Dublin, Ireland (Remote) · Self-employed**
 
-Liderança de desenvolvimento de produto, estratégia e crescimento. Ver detalhes completos na seção [Projetos Pessoais & SaaS](#projetos-pessoais--saas).
+<!-- AGENT_TARGET: upvote_exp -->
+Ver detalhes completos em [Projetos Pessoais & SaaS](#projetos-pessoais--saas).
 
 ---
 
@@ -79,15 +109,14 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 
 **Contexto:** Plataforma de e-commerce de vinhos de alta escala baseada no Elastic Path, servindo centenas de milhares de usuários.
 
+<!-- AGENT_TARGET: wine -->
 **Conquistas:**
-
-- ✅ **Projetei e desenvolvi plataforma de bônus e comissões** servindo **400.000+ usuários** — sistema de alta criticidade cobrindo regras complexas de recompensas e comissões de vendas em larga escala
-- ✅ **Liderou iniciativa de load testing com JMeter** — identificou gargalos críticos e melhorou estabilidade da plataforma sob alto tráfego; coordenou esforço com devs, DBAs e profissionais de segurança
+- ✅ **Projetei e desenvolvi plataforma de bônus e comissões** servindo **400.000+ usuários** — sistema de alta criticidade cobrindo regras complexas de recompensas e comissões de vendas
+- ✅ **Liderou iniciativa de load testing com JMeter** — identificou gargalos críticos e melhorou estabilidade sob alto tráfego; coordenou esforço com devs, DBAs e segurança
 - ✅ Implementação de **técnicas de performance e caching** em ambiente clusterizado
-- ✅ Desenvolvimento de APIs com Spring (configuração via XML), Java 7, MySQL, Spring MVC
+- ✅ Desenvolvimento de APIs com Spring (XML config), Java 7, MySQL, Spring MVC
 - ✅ Manutenção e evolução da plataforma Elastic Path (troubleshooting, bug fix, novas features)
 - ✅ Trabalhou em microsserviços Spring Boot e aplicações JavaScript dentro do ecossistema Wine
-- [ ] _Adicionar: métricas de impacto em receita, uptime, performance % de melhoria_
 
 **Stack utilizada:** Java 7, Spring Boot, Spring MVC, Hibernate, MySQL, PostgreSQL, JMeter, Grafana, Postman, Docker, Microservices
 
@@ -98,13 +127,13 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 
 **Contexto:** Desenvolvedor terceirizado pela Bitway, alocado em diferentes clientes e projetos.
 
+<!-- AGENT_TARGET: bitway -->
 **Conquistas:**
 - ✅ Experiência em múltiplos microsserviços com foco em manutenção e desenvolvimento de features
 - ✅ Domínio de tecnologias front-end: JavaScript, React, HTML, CSS
 - ✅ Desenvolvimento mobile com React Native
 - ✅ Integração com serviços AWS: Cognito, RDS, DynamoDB
 - ✅ Aprofundamento em Spring, Spring Boot, Java e design patterns
-- [ ] _Adicionar: projetos específicos, clientes atendidos, impactos mensuráveis_
 
 **Stack utilizada:** Spring Boot, Kotlin, React, React Native, AWS Cognito, RDS, DynamoDB, Hibernate, Docker, REST/JSON, PostgreSQL
 
@@ -116,8 +145,6 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 - Trabalho com Spring Boot services, GitLab, Grafana, SQL e JMeter
 - Ganho de expertise em serviços backend e estrutura de código
 
-**Stack utilizada:** Spring Boot, GitLab, Grafana, SQL, JMeter, Hibernate
-
 ---
 
 ### 🏢 IFSULDEMINAS — Assistente de Laboratório de Informática
@@ -125,16 +152,13 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 
 - Manutenção preventiva e corretiva de equipamentos
 - Suporte a alunos no uso de computadores
-- Instalação e manutenção de software
 
 ---
 
 ### 🏢 Ghed Informática — Estagiário
 **📅 Jan 2019 – Fev 2019 | Brasil**
 
-- Montagem e manutenção de computadores
-- Suporte ao cliente e manutenção de redes
-- Gestão de pedidos via software, formatação e manutenção preventiva
+- Montagem e manutenção de computadores; suporte ao cliente; manutenção de redes
 
 ---
 
@@ -145,14 +169,13 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 ### 🚀 Upvote (upvote.pro) — Founder & Full-Stack Engineer
 **📅 Mar 2026 – Presente | Dublin, Ireland**
 
-**O que é:** Plataforma SaaS de feedback de usuários com IA, posicionada como alternativa ao Canny.io para o mercado brasileiro de startups. Missão: dar aos gestores a melhor ferramenta para gerenciar e visualizar os desejos dos clientes.
+**O que é:** Plataforma SaaS de feedback de usuários com IA, alternativa ao Canny.io para startups brasileiras.
 
-**Conquistas técnicas:**
-
+<!-- AGENT_TARGET: upvote_project -->
 **Infraestrutura & DevOps**
 - ✅ Migração de **GKE Autopilot → VPS Hostinger** com Docker Compose, reduzindo custos operacionais
 - ✅ Configuração de **Cloudflare CDN** para performance e proteção
-- ✅ Implementação de **PostgreSQL self-hosted** com backups automatizados
+- ✅ **PostgreSQL self-hosted** com backups automatizados
 - ✅ Pipeline CI/CD com **GitHub Actions** + Workload Identity Federation (sem chaves expostas)
 - ✅ Build paralelo com **change detection** — apenas serviços alterados são reconstruídos
 - ✅ Monorepo estruturado com `CLAUDE.md` context files
@@ -162,25 +185,22 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 - ✅ Identidade visual e branding (dark purple `#2D1F5E`)
 - ✅ LinkedIn company page criada e ativa
 
-**Skills demonstradas:** Product leadership, infraestrutura cloud do zero, SaaS B2B, CI/CD, DevOps
-
 ---
 
 ### 📱 NutriTrack — Personal Nutrition Web App
 **📅 2025 – Presente**
 
-**O que é:** Aplicação web pessoal para gestão de metas nutricionais com templates por dia (treino/descanso), rastreamento de suplementos e reset diário.
+Aplicação web pessoal para gestão de metas nutricionais com templates por dia (treino/descanso) e rastreamento de suplementos.
 
-**Stack:** HTML, JavaScript (vanilla) | **Status:** Em uso ativo
+**Stack:** HTML, JavaScript (vanilla)
 
 ---
 
 ### 🎓 TCC — Modelo de Propagação da COVID-19 com Autômatos Celulares
-**📅 2024 | Universidade Federal de Uberlândia**
+**📅 2024 | UFU**
 
-Desenvolvimento de modelo híbrido de simulação da COVID-19 usando Autômatos Celulares Probabilísticos, combinando modelos existentes com parâmetros próprios para aproximar diferentes contextos e localidades.
-
-**Disponível em:** [lnkd.in/diKA6pAc](https://lnkd.in/diKA6pAc) · **Orientador:** Luiz Gustavo Almeida Martins (UFU)
+Modelo híbrido de simulação da COVID-19 usando Autômatos Celulares Probabilísticos.
+**Disponível em:** [lnkd.in/diKA6pAc](https://lnkd.in/diKA6pAc)
 
 ---
 
@@ -190,23 +210,21 @@ Desenvolvimento de modelo híbrido de simulação da COVID-19 usando Autômatos 
 |----------|-------------|---------|
 | Bacharelado em Sistemas de Informação | Universidade Federal de Uberlândia (UFU) | Jan 2020 – Dez 2024 |
 | Técnico em Informática | IFSULDEMINAS — Campus Passos | Jan 2016 – Dez 2019 |
-| Business English | International House London (IH London) | Mar 2025 – Set 2025 |
+| Business English | International House London | Mar 2025 – Set 2025 |
 | English Proficiency Certificate | Duolingo English Test | Set 2025 (válido até Set 2027) |
 | MSc in Strategic Information Systems *(Unconditional Offer)* | Holmes Institute Dublin | Set 2026 – Ago 2027 |
 
-**Em avaliação:**
-- MSc in AI for Business — National College of Ireland
-- MSc in Cybersecurity — National College of Ireland
+**Em avaliação:** MSc in AI for Business · MSc in Cybersecurity — National College of Ireland
 
 ---
 
 ## Conquistas & Highlights
 
-> Resumo rápido dos maiores feitos. Atualize sempre que tiver algo novo relevante.
+<!-- AGENT_TARGET: highlights -->
 
 ### 🏅 Impacto Técnico
 - Projetei e entreguei sistema de bônus e comissões para **400.000+ usuários** na Wine.com.br
-- Liderou iniciativa de load testing que identificou gargalos críticos em plataforma de alto tráfego
+- Liderou load testing que identificou gargalos críticos em plataforma de alto tráfego
 - Infraestrutura completa de SaaS do zero: do código ao deploy, do DNS ao CI/CD
 
 ### 🏅 Comunidade & Reconhecimento
@@ -214,44 +232,34 @@ Desenvolvimento de modelo híbrido de simulação da COVID-19 usando Autômatos 
 - ✅ Participou do **GDG Uberlândia DevFest** (Google Developer Group)
 
 ### 🏅 Soft Skills & Liderança
-- [ ] _Ex: "Liderei onboarding de devs juniors"_
-- [ ] _Ex: "Conduzi tech talks ou apresentações técnicas"_
+- _Adicionar_
 
 ### 🏅 Feedbacks & Reconhecimentos
-- [ ] _Adicionar feedbacks positivos de managers, clientes, colegas_
-- [ ] _Adicionar promoções, aumentos, elogios formais_
+- _Adicionar_
 
 ---
 
-## Template para Novas Entradas
+## 📅 Weekly Log
 
-> Copie este bloco sempre que tiver uma nova conquista para registrar.
+> Registro cronológico das semanas. Entradas mais recentes no topo.
+> 🤖 O agente adiciona aqui toda sexta com base no seu relato.
 
-```
-### [Empresa / Projeto] — [Mês/Ano]
+<!-- WEEKLY_LOG_START -->
 
-**Contexto:** O que estava acontecendo / qual era o problema
+### Semana de 14 Abr 2026
+#carreira #upvote
+- Criação do brag document e README de perfil no GitHub
+- Definição de sistema de atualização semanal via agente de IA
+- Estruturação do repositório `guilherme-dis/guilherme-dis` com brag.md e README.md
 
-**O que fiz:**
-- Ação concreta 1
-- Ação concreta 2
-
-**Impacto:**
-- Resultado mensurável (tempo, dinheiro, usuários, performance %)
-- Feedback recebido
-
-**Skills demonstradas:** [Java, Spring Boot, Liderança, etc.]
-```
+<!-- WEEKLY_LOG_END -->
 
 ---
 
 ## 📝 Log de Atualizações
 
+<!-- CHANGELOG_START -->
 | Data | O que foi adicionado |
 |------|----------------------|
-| Abr 2026 | Criação do documento com base em CV + LinkedIn |
-| | |
-
----
-
-> 💡 **Dica:** Separe 10 minutos toda sexta-feira para revisar a semana e adicionar ao menos 1 entrada neste documento.
+| Abr 2026 | Criação do documento com base em CV + LinkedIn + estrutura de agente |
+<!-- CHANGELOG_END -->
