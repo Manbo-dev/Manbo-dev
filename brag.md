@@ -1,36 +1,21 @@
-<!--
-================================================================================
-BRAG DOCUMENT — GUILHERME DIAS CARDOSO SILVA
-================================================================================
-ARQUIVO PRIVADO — fonte da verdade para CV, entrevistas e performance reviews.
-
-🤖 INSTRUÇÕES PARA AGENTE DE IA (atualização semanal)
-================================================================================
-Quando receber um relato semanal do Guilherme, siga estas regras:
-
-1. WEEKLY_LOG → Adicione uma nova entrada no topo da seção "Weekly Log" com:
-   - Data da semana (ex: "Semana de 14 Abr 2026")
-   - Bullet points do que foi feito, aprendido, entregue
-   - Tags: #trabalho #upvote #estudos #carreira #pessoal
-
-2. CONQUISTAS → Se algo no relato for uma conquista significativa (entrega,
-   reconhecimento, métrica nova, feature lançada), adicione também na seção
-   correspondente em "Experiências Profissionais" ou "Projetos Pessoais".
-
-3. HIGHLIGHTS → Se for um highlight de carreira (impacto técnico, liderança,
-   reconhecimento externo), adicione em "Conquistas & Highlights".
-
-4. README_SYNC → Após atualizar o brag.md, atualize também o README.md:
-   - Substitua o conteúdo entre <!-- RECENT_UPDATES_START --> e <!-- RECENT_UPDATES_END -->
-     com as 3 entradas mais recentes do Weekly Log, formatadas de forma limpa.
-
-5. REGRAS GERAIS:
-   - Nunca remova entradas existentes, apenas adicione
-   - Transforme linguagem informal do relato em linguagem profissional concisa
-   - Se houver métricas (números, %), sempre preserve-as
-   - Mantenha o LOG DE ATUALIZAÇÕES atualizado
-================================================================================
--->
+[//]: # (================================================================================)
+[//]: # (BRAG DOCUMENT — GUILHERME DIAS CARDOSO SILVA)
+[//]: # (ARQUIVO PRIVADO — fonte da verdade para CV, entrevistas e performance reviews.)
+[//]: # (================================================================================)
+[//]: # (INSTRUÇÕES PARA AGENTE DE IA - atualização semanal)
+[//]: # (1. WEEKLY_LOG: Adicione nova entrada no topo da seção Weekly Log com:)
+[//]: # (   - "Semana de DD Mmm YYYY" como título)
+[//]: # (   - Bullets do que foi feito, aprendido, entregue)
+[//]: # (   - Tags: #trabalho #upvote #estudos #carreira #pessoal)
+[//]: # (2. CONQUISTAS: Se houver entrega significativa, adicione também na seção)
+[//]: # (   correspondente em Experiências ou Projetos.)
+[//]: # (3. HIGHLIGHTS: Se for impacto técnico, liderança ou reconhecimento externo,)
+[//]: # (   adicione em Conquistas & Highlights.)
+[//]: # (4. README_SYNC: Atualize o bloco RECENT_UPDATES no README.md com as 3 entradas)
+[//]: # (   mais recentes do Weekly Log, sem hashtags, máximo 3 bullets por semana.)
+[//]: # (5. REGRAS: Nunca remova entradas. Preserve métricas e números. Transforme)
+[//]: # (   linguagem informal em linguagem profissional concisa.)
+[//]: # (================================================================================)
 
 # 🏆 Brag Document — Guilherme Dias Cardoso Silva
 
@@ -82,9 +67,11 @@ Java Back-End Software Engineer com **4+ anos de experiência**, especializado e
 ---
 
 ### 🏢 Carroll's Irish Gift Store — Head Cashier
+
 **📅 [Data início] – Presente | Dublin, Ireland**
 
-<!-- AGENT_TARGET: carroll -->
+[//]: # (AGENT_TARGET: carroll)
+
 **Responsabilidades:**
 - _Adicionar_
 
@@ -94,14 +81,17 @@ Java Back-End Software Engineer com **4+ anos de experiência**, especializado e
 ---
 
 ### 🏢 Upvote — Founder
+
 **📅 Mar 2026 – Presente | Dublin, Ireland (Remote) · Self-employed**
 
-<!-- AGENT_TARGET: upvote_exp -->
+[//]: # (AGENT_TARGET: upvote_exp)
+
 Ver detalhes completos em [Projetos Pessoais & SaaS](#projetos-pessoais--saas).
 
 ---
 
 ### 🏢 Wine.com.br — Senior Software Engineer
+
 **📅 Abr 2024 – Mar 2026 (2 anos) | Vitória, ES, Brasil (Remote)**
 
 _(Anteriormente: Java Backend Developer · Mar 2022 – Abr 2024 · 2 anos e 2 meses)_
@@ -109,7 +99,8 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 
 **Contexto:** Plataforma de e-commerce de vinhos de alta escala baseada no Elastic Path, servindo centenas de milhares de usuários.
 
-<!-- AGENT_TARGET: wine -->
+[//]: # (AGENT_TARGET: wine)
+
 **Conquistas:**
 - ✅ **Projetei e desenvolvi plataforma de bônus e comissões** servindo **400.000+ usuários** — sistema de alta criticidade cobrindo regras complexas de recompensas e comissões de vendas
 - ✅ **Liderou iniciativa de load testing com JMeter** — identificou gargalos críticos e melhorou estabilidade sob alto tráfego; coordenou esforço com devs, DBAs e segurança
@@ -123,11 +114,13 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 ---
 
 ### 🏢 BitWay Systems — Full Stack Software Engineer (Java)
+
 **📅 Jan 2022 – Presente (4+ anos) | Barueri, SP, Brasil · Outsourcing**
 
 **Contexto:** Desenvolvedor terceirizado pela Bitway, alocado em diferentes clientes e projetos.
 
-<!-- AGENT_TARGET: bitway -->
+[//]: # (AGENT_TARGET: bitway)
+
 **Conquistas:**
 - ✅ Experiência em múltiplos microsserviços com foco em manutenção e desenvolvimento de features
 - ✅ Domínio de tecnologias front-end: JavaScript, React, HTML, CSS
@@ -140,6 +133,7 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 ---
 
 ### 🏢 Petz — Junior Java Developer
+
 **📅 Fev 2022 – Abr 2022 (3 meses) | Brasil**
 
 - Trabalho com Spring Boot services, GitLab, Grafana, SQL e JMeter
@@ -148,6 +142,7 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 ---
 
 ### 🏢 IFSULDEMINAS — Assistente de Laboratório de Informática
+
 **📅 Jan 2018 – Jul 2018 (7 meses) | Passos, MG, Brasil · Estágio**
 
 - Manutenção preventiva e corretiva de equipamentos
@@ -156,6 +151,7 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 ---
 
 ### 🏢 Ghed Informática — Estagiário
+
 **📅 Jan 2019 – Fev 2019 | Brasil**
 
 - Montagem e manutenção de computadores; suporte ao cliente; manutenção de redes
@@ -167,11 +163,13 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 ---
 
 ### 🚀 Upvote (upvote.pro) — Founder & Full-Stack Engineer
+
 **📅 Mar 2026 – Presente | Dublin, Ireland**
 
 **O que é:** Plataforma SaaS de feedback de usuários com IA, alternativa ao Canny.io para startups brasileiras.
 
-<!-- AGENT_TARGET: upvote_project -->
+[//]: # (AGENT_TARGET: upvote_project)
+
 **Infraestrutura & DevOps**
 - ✅ Migração de **GKE Autopilot → VPS Hostinger** com Docker Compose, reduzindo custos operacionais
 - ✅ Configuração de **Cloudflare CDN** para performance e proteção
@@ -188,6 +186,7 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 ---
 
 ### 📱 NutriTrack — Personal Nutrition Web App
+
 **📅 2025 – Presente**
 
 Aplicação web pessoal para gestão de metas nutricionais com templates por dia (treino/descanso) e rastreamento de suplementos.
@@ -197,6 +196,7 @@ Aplicação web pessoal para gestão de metas nutricionais com templates por dia
 ---
 
 ### 🎓 TCC — Modelo de Propagação da COVID-19 com Autômatos Celulares
+
 **📅 2024 | UFU**
 
 Modelo híbrido de simulação da COVID-19 usando Autômatos Celulares Probabilísticos.
@@ -220,7 +220,7 @@ Modelo híbrido de simulação da COVID-19 usando Autômatos Celulares Probabil�
 
 ## Conquistas & Highlights
 
-<!-- AGENT_TARGET: highlights -->
+[//]: # (AGENT_TARGET: highlights)
 
 ### 🏅 Impacto Técnico
 - Projetei e entreguei sistema de bônus e comissões para **400.000+ usuários** na Wine.com.br
@@ -241,8 +241,7 @@ Modelo híbrido de simulação da COVID-19 usando Autômatos Celulares Probabil�
 
 ## 📅 Weekly Log
 
-> Registro cronológico das semanas. Entradas mais recentes no topo.
-> 🤖 O agente adiciona aqui toda sexta com base no seu relato.
+[//]: # (AGENT_TARGET: weekly_log — adicione novas entradas ACIMA desta linha, mais recentes no topo)
 
 <!-- WEEKLY_LOG_START -->
 
@@ -250,7 +249,7 @@ Modelo híbrido de simulação da COVID-19 usando Autômatos Celulares Probabil�
 #carreira #upvote
 - Criação do brag document e README de perfil no GitHub
 - Definição de sistema de atualização semanal via agente de IA
-- Estruturação do repositório `guilherme-dis/guilherme-dis` com brag.md e README.md
+- Estruturação do repositório com `brag.md` e `README.md` separados por responsabilidade
 
 <!-- WEEKLY_LOG_END -->
 
@@ -258,8 +257,8 @@ Modelo híbrido de simulação da COVID-19 usando Autômatos Celulares Probabil�
 
 ## 📝 Log de Atualizações
 
-<!-- CHANGELOG_START -->
+[//]: # (AGENT_TARGET: changelog — adicione nova linha no topo da tabela)
+
 | Data | O que foi adicionado |
 |------|----------------------|
 | Abr 2026 | Criação do documento com base em CV + LinkedIn + estrutura de agente |
-<!-- CHANGELOG_END -->
