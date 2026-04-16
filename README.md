@@ -1,27 +1,12 @@
-<!--
-================================================================================
-README — GUILHERME DIAS CARDOSO SILVA (GitHub Profile)
-================================================================================
-ARQUIVO PÚBLICO — vitrine de perfil no GitHub.
-
-🤖 INSTRUÇÕES PARA AGENTE DE IA (atualização semanal)
-================================================================================
-Após atualizar o brag.md, atualize este README:
-
-1. Substitua o conteúdo entre <!-- RECENT_UPDATES_START --> e <!-- RECENT_UPDATES_END -->
-   com as 3 entradas mais recentes do Weekly Log do brag.md.
-   - Formato: data em negrito + bullets limpos e profissionais (sem hashtags)
-   - Máximo 3 bullets por semana
-
-2. Não altere nenhuma outra seção deste arquivo.
-================================================================================
--->
+[//]: # (AGENT INSTRUCTIONS - DO NOT RENDER)
+[//]: # (After updating brag.md, update the section between RECENT_UPDATES_START and RECENT_UPDATES_END)
+[//]: # (with the 3 most recent Weekly Log entries from brag.md, clean format, no hashtags, max 3 bullets each.)
+[//]: # (Do not change any other part of this file.)
 
 <h1 align="center">Guilherme Dias Cardoso Silva</h1>
 
 <p align="center">
-  <b>Java Back-End Software Engineer</b> · 4+ Years · Dublin, Ireland 🇮🇪
-  <br/>
+  <b>Java Back-End Software Engineer</b> · 4+ Years · Dublin, Ireland 🇮🇪<br/>
   Spring Boot · Microservices · Cloud · Open Source · SaaS Founder
 </p>
 
@@ -106,10 +91,8 @@ Currently based in Dublin, open to **Java Backend** and **Full Stack Engineer** 
 
 ## 📄 Full Brag Document
 
-For the complete record of achievements, projects, and weekly log, see [`brag.md`](./brag.md) in this repository.
+For the complete record of achievements, projects, and weekly log, see [`brag.md`](./brag.md).
 
 ---
 
-<p align="center">
-  <i>This profile is updated weekly. Last update: Apr 2026</i>
-</p>
+<p align="center"><i>Updated weekly · Last update: Apr 2026</i></p>
