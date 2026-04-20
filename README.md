@@ -64,7 +64,9 @@ Currently based in Dublin, open to **Java Backend** and **Full Stack Engineer** 
 | BitWay Systems | Full Stack Engineer (Java) | Jan 2022 – Present |
 | Petz | Junior Java Developer | Feb 2022 – Apr 2022 |
 
-**Key achievement:** Designed and built a bonus & commission platform at Wine.com.br serving **400,000+ users**.
+**Key achievements at Wine.com.br:**
+- Designed and built a bonus & commission platform serving **400,000+ users**
+- Led a JMeter load-testing initiative for Black Friday events: mapped all critical API routes (cart, checkout, navigation), coordinated AWS machine scaling with DevOps, and simulated thousands of concurrent users — resulting in **70% reduction on the slowest queries** and **40% overall response time improvement** across the platform
 
 ---
 
