@@ -103,7 +103,12 @@ _(Total na Wine.com.br: ~4 anos e 1 mês)_
 
 **Conquistas:**
 - ✅ **Projetei e desenvolvi plataforma de bônus e comissões** servindo **400.000+ usuários** — sistema de alta criticidade cobrindo regras complexas de recompensas e comissões de vendas
-- ✅ **Liderou iniciativa de load testing com JMeter** — identificou gargalos críticos e melhorou estabilidade sob alto tráfego; coordenou esforço com devs, DBAs e segurança
+- ✅ **Liderou iniciativa de load testing com JMeter para Black Friday e eventos promocionais de alto tráfego:**
+  - Mapeou todas as rotas críticas da API consumidas pelo app (navegação de produtos, adição ao carrinho, checkout) em colaboração com os times de QA e Frontend
+  - Desenhou scripts JMeter simulando milhares de usuários simultâneos percorrendo toda a jornada do cliente de ponta a ponta
+  - Coordenou com o time de DevOps o provisionamento e escalonamento de máquinas potentes na AWS para executar os testes de stress com carga distribuída
+  - Identificou queries extremamente lentas que só apareciam sob picos de acesso — invisíveis em testes unitários ou carga baixa
+  - **Resultados:** redução de **40% no tempo de resposta das rotas críticas** e redução de até **70% no tempo das queries mais lentas** nos picos de acesso; melhoria geral de **40% em toda a plataforma** — refletida diretamente em todas as sessões de promoção subsequentes
 - ✅ Implementação de **técnicas de performance e caching** em ambiente clusterizado
 - ✅ Desenvolvimento de APIs com Spring (XML config), Java 7, MySQL, Spring MVC
 - ✅ Manutenção e evolução da plataforma Elastic Path (troubleshooting, bug fix, novas features)
@@ -224,7 +229,7 @@ Modelo híbrido de simulação da COVID-19 usando Autômatos Celulares Probabil�
 
 ### 🏅 Impacto Técnico
 - Projetei e entreguei sistema de bônus e comissões para **400.000+ usuários** na Wine.com.br
-- Liderou load testing que identificou gargalos críticos em plataforma de alto tráfego
+- Liderou load testing com JMeter para Black Friday: **-70% nas queries críticas, -40% no tempo de resposta geral** da plataforma de e-commerce
 - Infraestrutura completa de SaaS do zero: do código ao deploy, do DNS ao CI/CD
 
 ### 🏅 Comunidade & Reconhecimento
