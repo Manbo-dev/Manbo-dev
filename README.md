@@ -82,6 +82,11 @@ Currently based in Dublin, open to **Java Backend** and **Full Stack Engineer** 
 
 <!-- RECENT_UPDATES_START -->
 
+**Week of May 11, 2026**
+- Led the full store stocktake at Carroll's: prepared, counted, and organized all products into categorized boxes ahead of the external inventory team
+- Interviewed for Supervisor promotion at Carroll's (May 11) after two weeks of focused preparation
+- Weekend trip to the Cliffs of Moher with friends
+
 **Week of Apr 14, 2026**
 - Set up GitHub profile repository with brag document and public README
 - Defined weekly AI-agent update workflow for career tracking
@@ -97,4 +102,4 @@ For the complete record of achievements, projects, and weekly log, see [`brag.md
 
 ---
 
-<p align="center"><i>Updated weekly · Last update: Apr 2026</i></p>
+<p align="center"><i>Updated weekly · Last update: May 2026</i></p>

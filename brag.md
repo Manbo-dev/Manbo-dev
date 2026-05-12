@@ -73,10 +73,12 @@ Java Back-End Software Engineer com **4+ anos de experiência**, especializado e
 [//]: # (AGENT_TARGET: carroll)
 
 **Responsabilidades:**
-- _Adicionar_
+- Operação de caixa principal e suporte à equipe de cashiers
+- Apoio à liderança em processos operacionais e organização da loja
 
 **Conquistas:**
-- _Adicionar_
+- ✅ **Liderou execução do stocktake completo da loja (Mai 2026):** preparação, contagem e organização de todos os produtos em caixas categorizadas, entregando a loja totalmente organizada à equipe externa de inventário — execução acelerada e simplificada do processo oficial
+- ✅ **Selecionado para processo seletivo de promoção interna a Supervisor** (entrevista em Mai 2026); preparação ativa nas semanas anteriores consolidando conhecimentos de gestão de equipe e operação de loja
 
 ---
 
@@ -237,7 +239,8 @@ Modelo híbrido de simulação da COVID-19 usando Autômatos Celulares Probabil�
 - ✅ Participou do **GDG Uberlândia DevFest** (Google Developer Group)
 
 ### 🏅 Soft Skills & Liderança
-- _Adicionar_
+- ✅ Selecionado para processo seletivo de promoção interna a **Supervisor** na Carroll's Irish Gift Store (Mai 2026) — reconhecimento de prontidão para liderança de equipe e operação de loja
+- ✅ Liderou logística e organização do **stocktake** anual da loja, coordenando preparação prévia que acelerou a execução da equipe externa de inventário
 
 ### 🏅 Feedbacks & Reconhecimentos
 - _Adicionar_
@@ -249,6 +252,12 @@ Modelo híbrido de simulação da COVID-19 usando Autômatos Celulares Probabil�
 [//]: # (AGENT_TARGET: weekly_log — adicione novas entradas ACIMA desta linha, mais recentes no topo)
 
 <!-- WEEKLY_LOG_START -->
+
+### Semana de 11 Mai 2026
+#trabalho #carreira #pessoal
+- Liderou execução do stocktake da loja Carroll's: preparação, contagem e organização de todos os produtos em caixas categorizadas; loja entregue totalmente pronta à equipe externa de inventário, acelerando a execução do processo oficial
+- Concluiu preparação de duas semanas para o cargo de Supervisor na Carroll's; entrevista realizada em 11 Mai 2026 — aguardando resultado
+- Viagem aos Cliffs of Moher com amigos no fim de semana
 
 ### Semana de 14 Abr 2026
 #carreira #upvote
@@ -266,4 +275,5 @@ Modelo híbrido de simulação da COVID-19 usando Autômatos Celulares Probabil�
 
 | Data | O que foi adicionado |
 |------|----------------------|
+| Mai 2026 | Stocktake Carroll's, entrevista para Supervisor e atualização das seções Carroll's, Highlights e Weekly Log |
 | Abr 2026 | Criação do documento com base em CV + LinkedIn + estrutura de agente |
