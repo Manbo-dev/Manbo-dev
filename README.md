@@ -85,7 +85,6 @@ Currently based in Dublin, open to **Java Backend** and **Full Stack Engineer** 
 **Week of May 11, 2026**
 - Led the full store stocktake at Carroll's: prepared, counted, and organized all products into categorized boxes ahead of the external inventory team
 - Interviewed for Supervisor promotion at Carroll's (May 11) after two weeks of focused preparation
-- Weekend trip to the Cliffs of Moher with friends
 
 **Week of Apr 14, 2026**
 - Set up GitHub profile repository with brag document and public README
