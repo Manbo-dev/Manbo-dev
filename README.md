@@ -83,8 +83,9 @@ Currently based in Dublin, open to **Java Backend** and **Full Stack Engineer** 
 <!-- RECENT_UPDATES_START -->
 
 **Week of May 11, 2026**
+- Promoted to Supervisor at Carroll's Irish Gift Store after internal selection process (result on May 15); contract alignment meeting set for May 18
 - Led the full store stocktake at Carroll's: prepared, counted, and organized all products into categorized boxes ahead of the external inventory team
-- Interviewed for Supervisor promotion at Carroll's (May 11) after two weeks of focused preparation
+- Completed Supervisor interview at Carroll's (May 11) after two weeks of focused preparation
 
 **Week of Apr 14, 2026**
 - Set up GitHub profile repository with brag document and public README
